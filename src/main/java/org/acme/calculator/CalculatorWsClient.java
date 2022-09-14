@@ -1,7 +1,6 @@
 package org.acme.calculator;
 
 import io.quarkiverse.cxf.annotation.CXFClient;
-import org.acme.cxf.FruitWebService;
 import org.tempuri.CalculatorSoap;
 
 import javax.enterprise.context.ApplicationScoped;

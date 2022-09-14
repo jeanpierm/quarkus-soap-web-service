@@ -1,11 +1,11 @@
-package org.acme.cxf;
+package org.acme.fruit;
 
 import javax.jws.WebService;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-@WebService(endpointInterface = "org.acme.cxf.FruitWebService")
+@WebService(endpointInterface = "org.acme.fruit.FruitWebService")
 public class FruitWebServiceImpl implements FruitWebService {
 
     private Set<Fruit> fruits = Collections.synchronizedSet(new HashSet<>());

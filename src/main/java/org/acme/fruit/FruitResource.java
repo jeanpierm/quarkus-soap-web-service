@@ -1,7 +1,5 @@
 package org.acme.fruit;
 
-import org.acme.cxf.Fruit;
-
 import javax.inject.Inject;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;

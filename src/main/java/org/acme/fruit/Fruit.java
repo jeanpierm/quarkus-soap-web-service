@@ -1,4 +1,4 @@
-package org.acme.cxf;
+package org.acme.fruit;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

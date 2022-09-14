@@ -1,4 +1,12 @@
-# Ejemplo de crear y consumir SOAP Web Service, expuesto bajo REST con Quarkus
+# Ejemplo de crear y consumir SOAP Web Service con Quarkus y CXF
+
+## Screenshots
+
+### Listar fruitas (SOAP WS creado, consumido y expuesto bajo REST)
+![fruit-list](./screenshots/fruit-list.png)
+
+### Sumar (SOAP WS externo consumido y expuesto bajo REST)
+![fruit-list](./screenshots/calculator-add.png)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

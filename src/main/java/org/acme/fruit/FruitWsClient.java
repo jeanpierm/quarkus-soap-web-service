@@ -1,8 +1,6 @@
 package org.acme.fruit;
 
 import io.quarkiverse.cxf.annotation.CXFClient;
-import org.acme.cxf.Fruit;
-import org.acme.cxf.FruitWebService;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

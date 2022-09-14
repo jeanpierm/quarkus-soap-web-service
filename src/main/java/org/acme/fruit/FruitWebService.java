@@ -1,4 +1,4 @@
-package org.acme.cxf;
+package org.acme.fruit;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;
